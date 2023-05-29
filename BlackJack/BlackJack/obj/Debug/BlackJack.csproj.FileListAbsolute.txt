@@ -1,7 +1,0 @@
-D:\GitHub\AlgorithmStudy\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
-D:\GitHub\AlgorithmStudy\BlackJack\BlackJack\bin\Debug\BlackJack.exe
-D:\GitHub\AlgorithmStudy\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
-D:\GitHub\AlgorithmStudy\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
-D:\GitHub\AlgorithmStudy\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
-D:\GitHub\AlgorithmStudy\BlackJack\BlackJack\obj\Debug\BlackJack.exe
-D:\GitHub\AlgorithmStudy\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
